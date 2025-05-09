@@ -1,0 +1,6 @@
+@OverseaSupplierAPI_HostAddress = http://localhost:5122
+
+GET {{OverseaSupplierAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
