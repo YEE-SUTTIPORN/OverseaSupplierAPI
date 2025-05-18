@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverseaSupplierAPI", "OverseaSupplierAPI.csproj", "{871333DE-F7AC-4A4B-BDFD-5A1649C756AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework48OverseaSupplierAPI", "..\Framework48OverseaSupplierAPI\Framework48OverseaSupplierAPI.csproj", "{D6664B46-72C1-418F-B61B-F38F53805B1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{871333DE-F7AC-4A4B-BDFD-5A1649C756AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871333DE-F7AC-4A4B-BDFD-5A1649C756AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{871333DE-F7AC-4A4B-BDFD-5A1649C756AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6664B46-72C1-418F-B61B-F38F53805B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6664B46-72C1-418F-B61B-F38F53805B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6664B46-72C1-418F-B61B-F38F53805B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6664B46-72C1-418F-B61B-F38F53805B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
